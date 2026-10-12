@@ -6,16 +6,13 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # hash map sol. 
-        visited = defaultdict() 
         curr = head 
-        position = 0 
+        stack = list()
         while curr:
-            if curr in visited:
+            if curr in stack:
                 return curr 
-            visited[curr] = position 
+            stack.append(curr)
             curr = curr.next 
-            position += 1
-        return None
+        return None 
 
         
