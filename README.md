@@ -14,6 +14,7 @@ Each folder represents a problem and is formatted:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
@@ -36,6 +37,7 @@ Each folder represents a problem and is formatted:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/AP3008/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
