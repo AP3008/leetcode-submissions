@@ -20,6 +20,7 @@ Each folder represents a problem and is formatted:
 | ------- |
 | [0061-rotate-list](https://github.com/AP3008/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/AP3008/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,8 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AP3008/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
