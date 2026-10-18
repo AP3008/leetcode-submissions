@@ -16,6 +16,7 @@ Each folder represents a problem and is formatted:
 | ------- |
 | [0001-two-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/AP3008/leetcode-submissions/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Each folder represents a problem and is formatted:
 | [0001-two-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/AP3008/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/AP3008/leetcode-submissions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AP3008/leetcode-submissions/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/AP3008/leetcode-submissions/tree/master/0217-contains-duplicate) |
 ## Merge Sort
 |  |
 | ------- |
