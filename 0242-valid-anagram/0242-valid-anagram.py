@@ -6,12 +6,8 @@ class Solution:
         
         seen = {}
         seen2 = {}
-        for c in s:
-            seen[c] = seen.get(c, 0) + 1
+        for i in range(len(s)):
+            seen[s[i]] = seen.get(s[i], 0) + 1
+            seen2[t[i]] = seen2.get(t[i],0) + 1
         
-        for c in t:
-            if not seen.get(c):
-                return False 
-            seen2[c] = seen2.get(c, 0)+1
-
         return seen == seen2
