@@ -99,4 +99,12 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AP3008/leetcode-submissions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AP3008/leetcode-submissions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
