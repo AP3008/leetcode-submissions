@@ -48,6 +48,7 @@ Each folder represents a problem and is formatted:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/AP3008/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/AP3008/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/AP3008/leetcode-submissions/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,8 +104,13 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AP3008/leetcode-submissions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/AP3008/leetcode-submissions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AP3008/leetcode-submissions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AP3008/leetcode-submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
