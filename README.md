@@ -24,6 +24,7 @@ Each folder represents a problem and is formatted:
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AP3008/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AP3008/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AP3008/leetcode-submissions/tree/master/0148-sort-list) |
@@ -57,6 +58,7 @@ Each folder represents a problem and is formatted:
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AP3008/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AP3008/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
