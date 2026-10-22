@@ -27,6 +27,7 @@ Each folder represents a problem and is formatted:
 | [0021-merge-two-sorted-lists](https://github.com/AP3008/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AP3008/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/AP3008/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/AP3008/leetcode-submissions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/AP3008/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
@@ -35,6 +36,7 @@ Each folder represents a problem and is formatted:
 | [0031-next-permutation](https://github.com/AP3008/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AP3008/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/AP3008/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/AP3008/leetcode-submissions/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -59,6 +61,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AP3008/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/AP3008/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AP3008/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
@@ -106,6 +109,7 @@ Each folder represents a problem and is formatted:
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AP3008/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/AP3008/leetcode-submissions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/AP3008/leetcode-submissions/tree/master/0739-daily-temperatures) |
 ## Design
