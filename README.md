@@ -24,6 +24,7 @@ Each folder represents a problem and is formatted:
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AP3008/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AP3008/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AP3008/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -33,6 +34,7 @@ Each folder represents a problem and is formatted:
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AP3008/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/AP3008/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AP3008/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
