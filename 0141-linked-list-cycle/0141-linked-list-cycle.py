@@ -6,10 +6,15 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        slow = fast = head
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next 
-            if slow == fast:
-                return True
+        # two solutions
+        # Simple sol. uses a hash map
+        # 1. Track all of the nodes that have been seen, if a node is already in the hashmap, then we return true, because there is a cycle. 
+
+        seen = defaultdict() 
+        while head:
+            if head in seen:
+                return True 
+            seen[head] = 0
+            head = head.next 
+
         return False 
