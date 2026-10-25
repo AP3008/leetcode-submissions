@@ -7,9 +7,9 @@ class Solution:
     def reverseList(self, head: ListNode | None) -> ListNode | None:
         prev = None 
         curr = head
-        while curr: 
+        while curr:
             tmp = curr.next 
             curr.next = prev
-            prev = curr 
-            curr = tmp
-        return prev 
+            prev = curr
+            curr = tmp 
+        return prev
