@@ -46,6 +46,7 @@ Each folder represents a problem and is formatted:
 | [0143-reorder-list](https://github.com/AP3008/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/AP3008/leetcode-submissions/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/AP3008/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Each folder represents a problem and is formatted:
 | ------- |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AP3008/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Heap (Priority Queue)
 |  |
