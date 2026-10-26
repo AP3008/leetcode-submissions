@@ -5,12 +5,22 @@ class Solution:
 
         l = 0 
         maxLength = 1 
-        for i in range(1, len(s)):
-            while s[i] in s[l:i]:
+        #for i in range(1, len(s)):
+        #    while s[i] in s[l:i]:
+        #        l+=1 
+        #    distance = i - l+1 
+        #    maxLength = max#(maxLength, distance)
+        #return maxLength 
+
+        seen = set()
+        for i in range(len(s)):
+            while s[i] in seen:
+                seen.remove(s[l])
                 l+=1 
-            distance = i - l+1 
-            maxLength = max(maxLength, distance)
-        return maxLength 
+            seen.add(s[i])
+            maxLength = max(maxLength, i-l+1)
+        return maxLength
+            
 
 
 
