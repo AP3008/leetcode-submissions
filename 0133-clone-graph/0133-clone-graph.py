@@ -9,15 +9,24 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        # recursive solution 
+        # Iterative loop solution
+        if not node:
+            return None  
+        explore = deque() 
         copies = {}
+        explore.append(node)
+        while explore:
+            nodeToCopy = explore.popleft()
+            if nodeToCopy not in copies:
+                copies[nodeToCopy] = Node(nodeToCopy.val, [])
+            copy = copies[nodeToCopy]
+            for n in nodeToCopy.neighbors:
+                if n not in copies:
+                    copies[n] = Node(n.val, [])
+                    explore.append(n)
+                copy.neighbors.append(copies[n])
+        return copies[node]
+                
 
-        def dfs(node):
-            if node in copies:
-                return copies[node]
-            copy = Node(node.val, [])
-            copies[node] = copy
-            for n in node.neighbors:
-                copy.neighbors.append(dfs(n))   
-            return copy
-        return dfs(node) if node else None 
+
+            
