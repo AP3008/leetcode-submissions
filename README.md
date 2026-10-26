@@ -24,6 +24,7 @@ Each folder represents a problem and is formatted:
 | [0217-contains-duplicate](https://github.com/AP3008/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AP3008/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AP3008/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AP3008/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
@@ -108,6 +109,7 @@ Each folder represents a problem and is formatted:
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AP3008/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/AP3008/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Heap (Priority Queue)
 |  |
@@ -121,6 +123,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AP3008/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AP3008/leetcode-submissions/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
