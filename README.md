@@ -39,6 +39,7 @@ Each folder represents a problem and is formatted:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AP3008/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/AP3008/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AP3008/leetcode-submissions/tree/master/0061-rotate-list) |
@@ -72,6 +73,7 @@ Each folder represents a problem and is formatted:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
@@ -101,6 +103,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AP3008/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AP3008/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -207,4 +210,8 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
