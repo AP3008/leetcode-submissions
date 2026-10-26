@@ -165,6 +165,7 @@ Each folder represents a problem and is formatted:
 | [0110-balanced-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Each folder represents a problem and is formatted:
 | [0110-balanced-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -189,8 +191,17 @@ Each folder represents a problem and is formatted:
 | [0110-balanced-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
