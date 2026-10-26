@@ -15,6 +15,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AP3008/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AP3008/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -99,6 +100,7 @@ Each folder represents a problem and is formatted:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AP3008/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AP3008/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -122,6 +124,7 @@ Each folder represents a problem and is formatted:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AP3008/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
