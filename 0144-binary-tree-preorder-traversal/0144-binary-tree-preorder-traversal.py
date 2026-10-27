@@ -7,12 +7,29 @@
 class Solution:
     def preorderTraversal(self, root: TreeNode | None) -> list[int]:
        # Recrusive sol. 
+       # res = []
+       # def dfs(node):
+       #     if not node:
+       #         return None
+       #     res.append(node.val)
+       #     dfs(node.left)
+       #     dfs(node.right)
+       # dfs(root)
+       # return res 
+
+       # Iterative sol. 
+        stack = [] 
+        if root:
+            stack.append((root, False))
         res = []
-        def dfs(node):
-            if not node:
-                return None
-            res.append(node.val)
-            dfs(node.left)
-            dfs(node.right)
-        dfs(root)
-        return res 
+        while stack:
+            node, explored = stack.pop()
+            if not explored:
+                stack.append((node, True))
+                if node.left:
+                    stack.append((node.left, False))
+                if node.right:
+                    stack.append((node.right, False))
+            else:
+                res.append(node.val)
+        return res[::-1]
