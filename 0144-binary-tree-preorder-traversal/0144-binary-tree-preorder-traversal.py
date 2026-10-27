@@ -20,16 +20,13 @@ class Solution:
        # Iterative sol. 
         stack = [] 
         if root:
-            stack.append((root, False))
+            stack.append(root)
         res = []
         while stack:
-            node, explored = stack.pop()
-            if not explored:
-                stack.append((node, True))
-                if node.left:
-                    stack.append((node.left, False))
-                if node.right:
-                    stack.append((node.right, False))
-            else:
-                res.append(node.val)
-        return res[::-1]
+            node = stack.pop()
+            if node.right:
+                stack.append(node.right)
+            if node.left:
+                stack.append(node.left)
+            res.append(node.val)
+        return res
