@@ -9,24 +9,26 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        # Iterative loop solution
-        if not node:
-            return None  
-        explore = deque() 
-        copies = {}
-        explore.append(node)
-        while explore:
-            nodeToCopy = explore.popleft()
-            if nodeToCopy not in copies:
-                copies[nodeToCopy] = Node(nodeToCopy.val, [])
-            copy = copies[nodeToCopy]
-            for n in nodeToCopy.neighbors:
-                if n not in copies:
-                    copies[n] = Node(n.val, [])
-                    explore.append(n)
-                copy.neighbors.append(copies[n])
-        return copies[node]
-                
+        # keep track of nodes that have been created with a hashmap, the old node is the key and the new node reference is the value 
 
+        if not node:
+            return None
+
+        hashMap = {}
+        q = deque() 
+        q.append(node)
+
+        while q:
+            nodeToCopy = q.popleft()
+            if nodeToCopy not in hashMap:
+                hashMap[nodeToCopy] = Node(nodeToCopy.val, [])
+            n = hashMap[nodeToCopy]
+            for nei in nodeToCopy.neighbors:
+                if nei not in hashMap:
+                    hashMap[nei] = Node(nei.val,[])
+                    q.append(nei)
+                n.neighbors.append(hashMap[nei])
+             
+        return hashMap[node]
 
             
