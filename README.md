@@ -18,6 +18,7 @@ Each folder represents a problem and is formatted:
 | [0003-longest-substring-without-repeating-characters](https://github.com/AP3008/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AP3008/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/AP3008/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -119,6 +120,7 @@ Each folder represents a problem and is formatted:
 | [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/AP3008/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AP3008/leetcode-submissions/tree/master/0383-ransom-note) |
@@ -222,6 +224,7 @@ Each folder represents a problem and is formatted:
 | [0100-same-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AP3008/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AP3008/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AP3008/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AP3008/leetcode-submissions/tree/master/0207-course-schedule) |
@@ -293,4 +296,8 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AP3008/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
