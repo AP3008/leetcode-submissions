@@ -200,6 +200,7 @@ Each folder represents a problem and is formatted:
 | [0144-binary-tree-preorder-traversal](https://github.com/AP3008/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AP3008/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -216,6 +217,7 @@ Each folder represents a problem and is formatted:
 | [0207-course-schedule](https://github.com/AP3008/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -242,6 +244,7 @@ Each folder represents a problem and is formatted:
 | [0144-binary-tree-preorder-traversal](https://github.com/AP3008/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AP3008/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
@@ -300,4 +303,16 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
