@@ -20,6 +20,7 @@ Each folder represents a problem and is formatted:
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AP3008/leetcode-submissions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AP3008/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AP3008/leetcode-submissions/tree/master/0146-lru-cache) |
@@ -73,6 +74,7 @@ Each folder represents a problem and is formatted:
 | [0033-search-in-rotated-sorted-array](https://github.com/AP3008/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/AP3008/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AP3008/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/AP3008/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -87,6 +89,7 @@ Each folder represents a problem and is formatted:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Each folder represents a problem and is formatted:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/AP3008/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AP3008/leetcode-submissions/tree/master/0383-ransom-note) |
@@ -315,4 +319,16 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
