@@ -84,6 +84,7 @@ Each folder represents a problem and is formatted:
 | [0287-find-the-duplicate-number](https://github.com/AP3008/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AP3008/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/AP3008/leetcode-submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AP3008/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/AP3008/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@ Each folder represents a problem and is formatted:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Each folder represents a problem and is formatted:
 | [0207-course-schedule](https://github.com/AP3008/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AP3008/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/AP3008/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
@@ -320,6 +323,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AP3008/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AP3008/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/AP3008/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
