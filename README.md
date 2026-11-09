@@ -74,6 +74,7 @@ Each folder represents a problem and is formatted:
 | [0001-two-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/AP3008/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AP3008/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AP3008/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -319,6 +320,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0039-combination-sum) |
 ## Matrix
 |  |
 | ------- |
