@@ -83,6 +83,7 @@ Each folder represents a problem and is formatted:
 | [0217-contains-duplicate](https://github.com/AP3008/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/AP3008/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AP3008/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0704-binary-search](https://github.com/AP3008/leetcode-submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AP3008/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/AP3008/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -96,6 +97,7 @@ Each folder represents a problem and is formatted:
 | [0042-trapping-rain-water](https://github.com/AP3008/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
+| [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -364,4 +366,12 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AP3008/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
