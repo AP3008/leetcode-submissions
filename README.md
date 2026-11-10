@@ -77,6 +77,7 @@ Each folder represents a problem and is formatted:
 | [0039-combination-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AP3008/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/AP3008/leetcode-submissions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AP3008/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -203,6 +204,7 @@ Each folder represents a problem and is formatted:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AP3008/leetcode-submissions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/AP3008/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -327,6 +329,7 @@ Each folder represents a problem and is formatted:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/AP3008/leetcode-submissions/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
