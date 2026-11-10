@@ -102,6 +102,7 @@ Each folder represents a problem and is formatted:
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Each folder represents a problem and is formatted:
 | [0383-ransom-note](https://github.com/AP3008/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -389,4 +391,8 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
