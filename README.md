@@ -138,6 +138,7 @@ Each folder represents a problem and is formatted:
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AP3008/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AP3008/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -183,6 +184,7 @@ Each folder represents a problem and is formatted:
 | [0146-lru-cache](https://github.com/AP3008/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AP3008/leetcode-submissions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/AP3008/leetcode-submissions/tree/master/1146-snapshot-array) |
 ## Monotonic Stack
@@ -225,6 +227,7 @@ Each folder represents a problem and is formatted:
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AP3008/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -245,6 +248,7 @@ Each folder represents a problem and is formatted:
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AP3008/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [1267-count-servers-that-communicate](https://github.com/AP3008/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
@@ -261,6 +265,7 @@ Each folder represents a problem and is formatted:
 | [0207-course-schedule](https://github.com/AP3008/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AP3008/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/AP3008/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
@@ -279,6 +284,7 @@ Each folder represents a problem and is formatted:
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AP3008/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
