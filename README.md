@@ -77,6 +77,7 @@ Each folder represents a problem and is formatted:
 | [0039-combination-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AP3008/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/AP3008/leetcode-submissions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
@@ -98,6 +99,7 @@ Each folder represents a problem and is formatted:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/AP3008/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -113,6 +115,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AP3008/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/AP3008/leetcode-submissions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/AP3008/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
