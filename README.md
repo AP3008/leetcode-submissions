@@ -383,6 +383,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AP3008/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AP3008/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -395,4 +396,8 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AP3008/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
