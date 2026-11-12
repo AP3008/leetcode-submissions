@@ -81,6 +81,7 @@ Each folder represents a problem and is formatted:
 | [0053-maximum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/AP3008/leetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AP3008/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -146,6 +147,7 @@ Each folder represents a problem and is formatted:
 | [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -251,6 +253,7 @@ Each folder represents a problem and is formatted:
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AP3008/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0100-same-tree) |
@@ -346,10 +349,12 @@ Each folder represents a problem and is formatted:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AP3008/leetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AP3008/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AP3008/leetcode-submissions/tree/master/0994-rotting-oranges) |
