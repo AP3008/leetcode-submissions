@@ -30,6 +30,7 @@ Each folder represents a problem and is formatted:
 | [0347-top-k-frequent-elements](https://github.com/AP3008/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AP3008/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/AP3008/leetcode-submissions/tree/master/1146-snapshot-array) |
 ## Linked List
@@ -153,6 +154,7 @@ Each folder represents a problem and is formatted:
 | [0345-reverse-vowels-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AP3008/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 ## Heap (Priority Queue)
@@ -181,6 +183,7 @@ Each folder represents a problem and is formatted:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AP3008/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
