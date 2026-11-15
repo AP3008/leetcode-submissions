@@ -84,6 +84,7 @@ Each folder represents a problem and is formatted:
 | [0057-insert-interval](https://github.com/AP3008/leetcode-submissions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/AP3008/leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AP3008/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AP3008/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -201,6 +202,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AP3008/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AP3008/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AP3008/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/AP3008/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AP3008/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -222,6 +224,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AP3008/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AP3008/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/AP3008/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AP3008/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
@@ -472,4 +475,8 @@ Each folder represents a problem and is formatted:
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AP3008/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
