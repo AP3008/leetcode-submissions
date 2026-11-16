@@ -2,7 +2,6 @@ class Solution:
     def digitSum(self, s: str, k: int) -> str:
         
         while len(s) > k:
-            q = deque()
             counter = 0 
             total = 0 
             res = ""
