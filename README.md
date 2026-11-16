@@ -169,6 +169,7 @@ Each folder represents a problem and is formatted:
 | [0721-accounts-merge](https://github.com/AP3008/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -446,6 +447,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Geometry
 |  |
 | ------- |
