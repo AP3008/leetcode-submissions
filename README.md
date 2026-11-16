@@ -156,6 +156,7 @@ Each folder represents a problem and is formatted:
 | [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/AP3008/leetcode-submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
@@ -239,6 +240,7 @@ Each folder represents a problem and is formatted:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AP3008/leetcode-submissions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AP3008/leetcode-submissions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/AP3008/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
@@ -423,6 +425,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AP3008/leetcode-submissions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/AP3008/leetcode-submissions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AP3008/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/AP3008/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -447,6 +450,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/AP3008/leetcode-submissions/tree/master/0067-add-binary) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Geometry
 |  |
