@@ -64,6 +64,7 @@ Each folder represents a problem and is formatted:
 | [0345-reverse-vowels-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AP3008/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AP3008/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AP3008/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Each folder represents a problem and is formatted:
 | [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AP3008/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Each folder represents a problem and is formatted:
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AP3008/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
