@@ -175,6 +175,7 @@ Each folder represents a problem and is formatted:
 | [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AP3008/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AP3008/leetcode-submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
