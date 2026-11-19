@@ -104,6 +104,7 @@ Each folder represents a problem and is formatted:
 | [1146-snapshot-array](https://github.com/AP3008/leetcode-submissions/tree/master/1146-snapshot-array) |
 | [1267-count-servers-that-communicate](https://github.com/AP3008/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AP3008/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AP3008/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -146,6 +147,7 @@ Each folder represents a problem and is formatted:
 | [0721-accounts-merge](https://github.com/AP3008/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/AP3008/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/AP3008/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AP3008/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -450,6 +452,7 @@ Each folder represents a problem and is formatted:
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AP3008/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AP3008/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
 |  |
