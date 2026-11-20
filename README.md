@@ -82,6 +82,7 @@ Each folder represents a problem and is formatted:
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AP3008/leetcode-submissions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/AP3008/leetcode-submissions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/AP3008/leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
@@ -117,6 +118,7 @@ Each folder represents a problem and is formatted:
 | [0022-generate-parentheses](https://github.com/AP3008/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AP3008/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AP3008/leetcode-submissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AP3008/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
@@ -462,6 +464,7 @@ Each folder represents a problem and is formatted:
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AP3008/leetcode-submissions/tree/master/0055-jump-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AP3008/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AP3008/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
