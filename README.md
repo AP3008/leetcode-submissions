@@ -104,6 +104,7 @@ Each folder represents a problem and is formatted:
 | [0977-squares-of-a-sorted-array](https://github.com/AP3008/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/AP3008/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1146-snapshot-array](https://github.com/AP3008/leetcode-submissions/tree/master/1146-snapshot-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AP3008/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1267-count-servers-that-communicate](https://github.com/AP3008/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AP3008/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -126,6 +127,7 @@ Each folder represents a problem and is formatted:
 | [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AP3008/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AP3008/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AP3008/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -154,6 +156,7 @@ Each folder represents a problem and is formatted:
 | [0721-accounts-merge](https://github.com/AP3008/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/AP3008/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/AP3008/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AP3008/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AP3008/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AP3008/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Merge Sort
@@ -253,6 +256,7 @@ Each folder represents a problem and is formatted:
 | [0704-binary-search](https://github.com/AP3008/leetcode-submissions/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/AP3008/leetcode-submissions/tree/master/1146-snapshot-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AP3008/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Bit Manipulation
 |  |
 | ------- |
