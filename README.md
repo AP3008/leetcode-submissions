@@ -114,6 +114,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AP3008/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AP3008/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AP3008/leetcode-submissions/tree/master/0062-unique-paths) |
@@ -165,6 +166,7 @@ Each folder represents a problem and is formatted:
 | [0005-longest-palindromic-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AP3008/leetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AP3008/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AP3008/leetcode-submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
@@ -381,6 +383,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AP3008/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AP3008/leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
@@ -504,4 +507,8 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AP3008/leetcode-submissions/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AP3008/leetcode-submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
