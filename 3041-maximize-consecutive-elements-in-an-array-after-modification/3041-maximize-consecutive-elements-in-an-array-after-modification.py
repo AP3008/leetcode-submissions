@@ -1,5 +1,7 @@
 class Solution:
     def maxSelectedElements(self, nums: List[int]) -> int:
+        # O(nlog(n)) because of the sort 
+        # Otherwise everything has a constant lookup and we do one pass, so the rest is O(n) operations. 
         # We want to sort the input list so we can iterate from least to greatest 
         nums.sort()
         # Our res at min will always be 1 because we can take one element. 
