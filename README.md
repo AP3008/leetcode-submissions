@@ -92,6 +92,7 @@ Each folder represents a problem and is formatted:
 | [0200-number-of-islands](https://github.com/AP3008/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AP3008/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/AP3008/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/AP3008/leetcode-submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AP3008/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
@@ -118,6 +119,7 @@ Each folder represents a problem and is formatted:
 | [0062-unique-paths](https://github.com/AP3008/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AP3008/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/AP3008/leetcode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
@@ -317,6 +319,7 @@ Each folder represents a problem and is formatted:
 | [0210-course-schedule-ii](https://github.com/AP3008/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/AP3008/leetcode-submissions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/AP3008/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/AP3008/leetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -443,6 +446,7 @@ Each folder represents a problem and is formatted:
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/AP3008/leetcode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AP3008/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -496,4 +500,8 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AP3008/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AP3008/leetcode-submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
