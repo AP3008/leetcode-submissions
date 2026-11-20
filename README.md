@@ -105,6 +105,7 @@ Each folder represents a problem and is formatted:
 | [1267-count-servers-that-communicate](https://github.com/AP3008/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AP3008/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AP3008/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AP3008/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -122,6 +123,7 @@ Each folder represents a problem and is formatted:
 | [1143-longest-common-subsequence](https://github.com/AP3008/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AP3008/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AP3008/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +150,7 @@ Each folder represents a problem and is formatted:
 | [0973-k-closest-points-to-origin](https://github.com/AP3008/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/AP3008/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AP3008/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AP3008/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Merge Sort
 |  |
 | ------- |
