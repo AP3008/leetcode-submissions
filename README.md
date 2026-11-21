@@ -34,6 +34,7 @@ Each folder represents a problem and is formatted:
 | [0721-accounts-merge](https://github.com/AP3008/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/AP3008/leetcode-submissions/tree/master/1146-snapshot-array) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AP3008/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Each folder represents a problem and is formatted:
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AP3008/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AP3008/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AP3008/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AP3008/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dynamic Programming
@@ -190,6 +192,7 @@ Each folder represents a problem and is formatted:
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AP3008/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AP3008/leetcode-submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AP3008/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -289,6 +292,7 @@ Each folder represents a problem and is formatted:
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AP3008/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -313,6 +317,7 @@ Each folder represents a problem and is formatted:
 | [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0721-accounts-merge](https://github.com/AP3008/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1267-count-servers-that-communicate](https://github.com/AP3008/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AP3008/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
