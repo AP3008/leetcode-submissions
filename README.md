@@ -107,6 +107,7 @@ Each folder represents a problem and is formatted:
 | [1146-snapshot-array](https://github.com/AP3008/leetcode-submissions/tree/master/1146-snapshot-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AP3008/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1267-count-servers-that-communicate](https://github.com/AP3008/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AP3008/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AP3008/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AP3008/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -245,6 +246,7 @@ Each folder represents a problem and is formatted:
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/AP3008/leetcode-submissions/tree/master/1146-snapshot-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AP3008/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -456,6 +458,7 @@ Each folder represents a problem and is formatted:
 | [0067-add-binary](https://github.com/AP3008/leetcode-submissions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AP3008/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/AP3008/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AP3008/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AP3008/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Knapsack Problem
@@ -510,6 +513,7 @@ Each folder represents a problem and is formatted:
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AP3008/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Range Minimum/Maximum Query
@@ -524,4 +528,8 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AP3008/leetcode-submissions/tree/master/0022-generate-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AP3008/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
