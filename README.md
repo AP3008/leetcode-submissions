@@ -35,6 +35,7 @@ Each folder represents a problem and is formatted:
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/AP3008/leetcode-submissions/tree/master/1146-snapshot-array) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/AP3008/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Each folder represents a problem and is formatted:
 | [3364-minimum-positive-sum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AP3008/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AP3008/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3934-smallest-unique-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -265,6 +267,7 @@ Each folder represents a problem and is formatted:
 | [0981-time-based-key-value-store](https://github.com/AP3008/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/AP3008/leetcode-submissions/tree/master/1146-snapshot-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AP3008/leetcode-submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [3934-smallest-unique-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -372,6 +375,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AP3008/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -543,4 +547,12 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AP3008/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
