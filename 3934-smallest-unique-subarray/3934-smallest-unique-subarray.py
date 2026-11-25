@@ -19,7 +19,6 @@ class Solution:
         #return bisect_left(range(1,n), True, key=found)+1
 
         # Readable solution 
-
         n = len(nums)
 
         # names[k][i] represents the ID of a subarray
@@ -28,27 +27,21 @@ class Solution:
 
         # Precompute IDs for all power-of-two lengths.
         for k in range(n.bit_length() - 1):
-
             ids = {}
             new_names = []
             block_size = 2**k
-
             previous = names[k]
 
             # Combine two adjacent blocks of size 2**k.
             for i in range(len(previous) - block_size):
-
                 pair = (
                     previous[i],
                     previous[i + block_size]
                 )
-
                 # Assign an ID to each distinct pair.
                 if pair not in ids:
                     ids[pair] = len(ids)
-
                 new_names.append(ids[pair])
-
             names.append(new_names)
 
         # Check if a unique subarray of this length exists.
@@ -60,25 +53,19 @@ class Solution:
 
             # Distance between the first and last block.
             offset = length - block_size
-
             count = Counter()
-
             for i in range(n - length + 1):
-
                 # Two potentially overlapping blocks
                 # represent the entire subarray.
                 pair = (
                     names[k][i],
                     names[k][i + offset]
                 )
-
                 count[pair] += 1
-
             return 1 in count.values()
 
         # Binary search for the smallest valid length.
         l, r = 1, n
-
         while l < r:
             m = (l + r) // 2
             if found(m):
