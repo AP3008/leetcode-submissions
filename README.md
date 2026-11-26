@@ -466,6 +466,7 @@ Each folder represents a problem and is formatted:
 | [0973-k-closest-points-to-origin](https://github.com/AP3008/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AP3008/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AP3008/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/AP3008/leetcode-submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AP3008/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AP3008/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Knapsack Problem
@@ -493,6 +494,7 @@ Each folder represents a problem and is formatted:
 | [0054-spiral-matrix](https://github.com/AP3008/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AP3008/leetcode-submissions/tree/master/0067-add-binary) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/AP3008/leetcode-submissions/tree/master/3360-stone-removal-game) |
 ## Geometry
 |  |
 | ------- |
