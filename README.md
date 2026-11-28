@@ -18,6 +18,7 @@ Each folder represents a problem and is formatted:
 | [0003-longest-substring-without-repeating-characters](https://github.com/AP3008/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AP3008/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AP3008/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
@@ -186,6 +187,7 @@ Each folder represents a problem and is formatted:
 | [0022-generate-parentheses](https://github.com/AP3008/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AP3008/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AP3008/leetcode-submissions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AP3008/leetcode-submissions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/AP3008/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/AP3008/leetcode-submissions/tree/master/0139-word-break) |
@@ -230,6 +232,7 @@ Each folder represents a problem and is formatted:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AP3008/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AP3008/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AP3008/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AP3008/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AP3008/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
